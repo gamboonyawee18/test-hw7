@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dog",
+        "image": "Cav.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "ChaoChao.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "Corgi.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "Dal.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "German.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "GoldenRetriever.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "Pit.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "Pom.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "Poodle.jpg"
+    },
+    {
+        "name": "Dog",
+        "image": "Samoyed.jpg"
+    }    
+]
